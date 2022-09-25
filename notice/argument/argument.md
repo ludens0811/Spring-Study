@@ -11,3 +11,9 @@
 - Spring 에서의 MVC. [사전지식이 많이 필요하므로 사전지식 선 학습후 다룰 예정]
 > 1주차 자료 : https://github.com/JIWEON-JEONG/STUDY/blob/master/PROJECT/TIL/src/main/java/STUDY/TIL/spring/core/why_spring.md
 
+##2주차
+- HTTP 란
+- 웹서버와 웹 어플리케이션 서버. 
+- 스프링과 스프링부트 
+- Unit test, Integration test, UI test.
+- PR 활용하는 방법.
